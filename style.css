@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .orange {
@@ -55,4 +55,30 @@ h1 {
     background-position: right;
     padding-right: 100px;
     padding-bottom: 200px;
+}
+
+.web {
+    width: 40%;
+    margin-left: 5%;
+    padding: 20px;
+    box-shadow: 20px 20px 30px gray;
+}
+
+.Experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 10px;
+}
+
+#full {
+    border-left: 7px solid tomato;
+}
+
+#baby {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
